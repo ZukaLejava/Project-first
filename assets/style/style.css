@@ -37,6 +37,7 @@
     border: 1.4px solid #F66F4D;
     border-radius: 27px;
     padding: 19px 19px 19px 34px;
+    cursor: pointer;
 }
 
 .nav-img {
@@ -77,6 +78,7 @@
     border-radius: 30px;
     padding: 10px 20px;
     font-family: "Poppins";
+    cursor: pointer;
 }
 
 .main-nav button {
