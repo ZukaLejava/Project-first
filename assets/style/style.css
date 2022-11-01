@@ -1,3 +1,5 @@
+/*-------- main settings starts-------- */
+
 * {
     box-sizing: border-box;
     margin: 0;
@@ -10,6 +12,12 @@ body {
     height: 1243px;
     margin: 0 auto;
 }
+
+/*-------- main settings ends---------- */
+
+
+/*-------- header section starts------- */
+
 
 .header {
     display: flex;
@@ -52,6 +60,11 @@ body {
     align-items: center;
     gap:72px;
 }
+
+/*-------- header section ends--------- */
+
+/*-------- main section starts--------- */
+
 
 .main {
     padding: 85px 135px;
@@ -106,6 +119,10 @@ body {
     background: #2D3134;
 }
 
+/*-------- main section ends----------- */
+
+/*-------- grid section starts--------- */
+
 .container {  display: grid;
     grid-template-columns: 1fr 1.3fr 0.8fr 1fr;
     grid-template-rows: 1fr 1fr;
@@ -128,6 +145,9 @@ body {
   
   .grid6 { grid-area: grid6; margin-top: -10px; }
   
+/*-------- grid section ends----------- */
+
+/*-------- footer section starts------- */
 
 .footer {
     display: flex;
@@ -172,6 +192,7 @@ body {
     margin-top: 28px;
 }
 
+/*-------- footer section ends--------- */
 
 
 
