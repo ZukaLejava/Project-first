@@ -4,6 +4,12 @@
     padding: 0;
 }
 
+body {
+    background: #FAF8ED;
+    width: 1440px;
+    height: 1243px;
+}
+
 .header {
     display: flex;
     justify-content: space-between;
