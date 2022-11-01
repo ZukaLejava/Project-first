@@ -71,8 +71,9 @@
 .main-nav {
     padding-bottom: 60px;
     display: flex;
+    flex-direction: row;
     gap: 10px;
-    justify-content: center;
+    align-content: center;
 }
 
 .main-nav button {
